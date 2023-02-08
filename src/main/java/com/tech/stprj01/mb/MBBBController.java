@@ -28,16 +28,9 @@ public class MBBBController {
 	public String mb2_3() {
 		return "mb2_3";
 	}
-<<<<<<< HEAD
 	@RequestMapping("/mb110")
 	public String mb110() {
 		return "mb110";
-=======
-	@RequestMapping("/mb11_1")
-	public String mb11_1() {
-		return "mb11_1";
->>>>>>> mb11_b1
 	}
 	
-
 }
