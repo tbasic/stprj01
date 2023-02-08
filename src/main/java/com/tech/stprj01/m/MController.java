@@ -14,6 +14,10 @@ public class MController {
 	public String a2() {
 		return "a2";
 	}
+	@RequestMapping("/a3")
+	public String a3() {
+		return "a3";
+	}
 	
 
 }
