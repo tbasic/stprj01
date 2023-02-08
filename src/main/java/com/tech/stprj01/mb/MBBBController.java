@@ -11,5 +11,10 @@ public class MBBBController {
 		return "mb1";
 	}
 	
+	@RequestMapping("/mb2")
+	public String mb2() {
+		return "mb2";
+	}
+	
 
 }
