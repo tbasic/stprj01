@@ -20,6 +20,10 @@ public class MBBBController {
 	public String mb2_1() {
 		return "mb2_1";
 	}
+	@RequestMapping("/mb2_2")
+	public String mb2_2() {
+		return "mb2_2";
+	}
 	
 
 }
