@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class B5Controller {
 	
-	@RequestMapping("/m1")
-	public String m1() {
-		return "m1";
+	@RequestMapping("/a1")
+	public String a1() {
+		return "a1";
 	}
 
 }
