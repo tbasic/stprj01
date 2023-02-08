@@ -10,5 +10,10 @@ public class MController {
 	public String a1() {
 		return "a1";
 	}
+	@RequestMapping("/a2")
+	public String a2() {
+		return "a2";
+	}
+	
 
 }
