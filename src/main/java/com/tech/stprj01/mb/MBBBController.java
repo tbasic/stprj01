@@ -24,6 +24,10 @@ public class MBBBController {
 	public String mb2_2() {
 		return "mb2_2";
 	}
+	@RequestMapping("/mb2_3")
+	public String mb2_3() {
+		return "mb2_3";
+	}
 	
 
 }
