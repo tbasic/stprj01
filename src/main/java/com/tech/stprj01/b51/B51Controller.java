@@ -11,6 +11,11 @@ public class B51Controller {
 		return "b51";
 	}
 	
+	@RequestMapping("/b52")
+	public String b52() {
+		return "b52";
+	}
+	
 	
 	
 
